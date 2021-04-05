@@ -1,0 +1,17 @@
+.card a .card-footer {
+    text-decoration: none;
+}
+
+.card-text {
+    color: #AE0000;
+}
+
+.card-footer {
+    text-align: center;
+    text-decoration: none;
+}
+
+#download-btn {
+    border:none;
+        
+}
